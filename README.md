@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/CycloneDX/cyclonedx-dotnet.svg?branch=master)](https://travis-ci.org/CycloneDX/cyclonedx-dotnet)
-[![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg)][License]
+[![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcoderpatros%2Fcyclonedx-dotnet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcoderpatros%2Fcyclonedx-dotnet?ref=badge_shield)
+[License]
 [![NuGet Version](https://img.shields.io/nuget/v/CycloneDX.svg)](https://www.nuget.org/packages/CycloneDX/)
 [![Website](https://img.shields.io/badge/https://-cyclonedx.org-blue.svg)](https://cyclonedx.org/)
 [![Group Discussion](https://img.shields.io/badge/discussion-groups.io-blue.svg)](https://groups.io/g/CycloneDX)
@@ -65,3 +66,7 @@ License
 Permission to modify and redistribute is granted under the terms of the Apache 2.0 license. See the [LICENSE] file for the full license.
 
 [License]: https://github.com/CycloneDX/cyclonedx-dotnet/blob/master/LICENSE
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcoderpatros%2Fcyclonedx-dotnet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcoderpatros%2Fcyclonedx-dotnet?ref=badge_large)
